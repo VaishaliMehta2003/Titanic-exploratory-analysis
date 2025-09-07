@@ -32,8 +32,5 @@ Generated charts included: <br>
 - Family Size vs Survival Probability <br>
 
 6. *Dataset:* <br>
-The dataset is sourced from the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.  
-It contains passenger details such as age, sex, ticket class, family relations, and survival status.
-
-7. *Screenshort*
+The dataset is sourced from the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition. 
    
